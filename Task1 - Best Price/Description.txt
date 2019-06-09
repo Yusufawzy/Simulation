@@ -1,0 +1,9 @@
+The objective of this simulation model is to search (via experimentation) for the best price that maximizes the expected (average) revenue -- given the following equations:
+Revenue = Sales Price 
+Sales = Demand(Price/100)^-2
+
+Possible Price range: 90-100 
+
+Demand is an uncertain random variable.
+Experts predict that the demand for the product is normally distributed with mean 1000 and standard deviation 100.
+N.B. I generate many samples for Demand (say 1000 samples). 

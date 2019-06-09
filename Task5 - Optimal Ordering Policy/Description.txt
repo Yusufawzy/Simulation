@@ -1,0 +1,7 @@
+//The program is written using Visual Studio 2017
+A library is interested in determining the optimal ordering policy that maximises the expected daily profit from selling a certain book. 
+The library buys each unit from the supplier at $20.
+Initially the library has 15 units of the book available. 
+The daily selling price of the book changes from day to day, and ranges from a minimum of $25 to a maximum of $35 per unit, following uniform distribution.
+Daily demand for the book ranges from 2 to 12 books, following uniform distribution. 
+The task is to state the optimal ordering policy.

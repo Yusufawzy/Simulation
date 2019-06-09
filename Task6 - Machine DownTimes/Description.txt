@@ -1,0 +1,26 @@
+//The program is written using CodeBlocks
+A manufacturing unit is going to buy a new machine, the vendor claims the machine will function 90% of the time, the machine will be broken 10% of the time.
+The vendor does not know how long the machine will operate before it breaks down, also the vendor does not know how long would it take to repair the machine, the engineer at the manufacturing unit is interested in the knowing how the machine will perform.
+The engineer is interested in knowing if the 10% breakdown will lead to a machine reduced capacity or not, and accordingly decide weather to buy the machine or not.
+
+The engineer decided to use simulation to evaluate the performance of the manufacturing unit using the new machine.
+Do you think it is a good idea just to reduce the machine operating times (for example per week) by just 10%?, in other words, will the machine breakdown only once for 10% of the time?
+The machine will break down many times such that the total downtime is 10% of the total time.
+Therefore, to evaluate the system performance, the engineer will simulate the manufacturing unit to evaluate the performance of the new machine.
+
+Raw material (jobs) will arrive to the machine to be processed.
+If the machine is idle and not at downtime, the job will be processed.
+Otherwise the job will wait until the machine is idle and/or repaired.
+Each job will have a processing time on the machine.
+
+Jobs arrive with normal inter-arrival time with mean of 1.25 min (std 0.2).
+Processing times of a job at the machine are constant 1 min.
+Operating time before failure of the machine have normal distribution with mean 540 min (std 50 min).
+Repair times for the machine have normal distribution with mean 60 min (std 5 min). 
+
+We would like to evaluate the system performance in terms of:
+How many jobs will have to wait in the system ??
+How much time jobs (in average) will spend in the system ??
+Number of times the machine will breakdown ??
+
+

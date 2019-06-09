@@ -1,0 +1,18 @@
+The manager of Computer-World, a shop that sells computers and related equipment, is attempting to determine how many laptop PCs the shop should order each week.A primary consideration in this decision is the average number of laptop computers that the shop will sell each week and the average weekly profit generated from the sale of laptop PCs. 
+
+The profit of selling a laptop is $450. 
+Using this information the manager may decide the number of PC’s to order each week.
+
+The number of laptops demanded each week is a random variable (which we will define as x) that ranges from 0 to 4. 
+
+From past sales records, the manager has determined the frequency of demand for laptop PCs for the past 100 weeks as attached in the picture.
+
+If a PC remains unsold at the end of the week, the owner will lose $50 to storage per PC.
+
+If a customer comes to buy a PC but did not find one, the owner will lose $100 to compensate the unhappy customer.
+
+Now should the owner order 1 or 2 PCs to get the maximum average weekly profit?
+
+#Simulation Time : 500 weeks
+#Note: The average demand of PCs was 1.5 PCs per week
+

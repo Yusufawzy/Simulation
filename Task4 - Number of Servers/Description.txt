@@ -1,0 +1,2 @@
+Customers randomly arrive at the Northpointe wholesale flower market according to a normal distribution (0.6) per hour and standard deviation equal to 0.1, service times follow an normal distribution with an average time of 5 minutes and its standard deviation is 1.
+How many servers should be hired so that the average time a customer waits for service is less than 30 seconds?

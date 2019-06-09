@@ -1,0 +1,5 @@
+﻿  task_6.cpp
+f:\fci  - 2nd year\simulation\2018\task_6\task_6\task_6.cpp(25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\fci  - 2nd year\simulation\2018\task_6\task_6\task_6.cpp(26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\fci  - 2nd year\simulation\2018\task_6\task_6\task_6.cpp(44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  task_6.vcxproj -> F:\FCI  - 2nd Year\Simulation\2018\task_6\Debug\task_6.exe

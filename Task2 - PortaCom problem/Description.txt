@@ -1,0 +1,15 @@
+direct labor costs could range from $43 to $47 per unit, parts cost could range from $80 to $100 per unit, and first-year demand could range from 1500 to 28,500 units.
+
+c1 = direct labor cost per unit,c2 = parts cost per unit ,x = first-year demand
+
+PortaCom believes that the parts cost will range from S80 to $100 per unit and is described by the uniform probability distribution shown in the attached picture.
+First-Year Demand PortaCom believes that first-year demand is described by the normal probability distribution 
+
+the profit model for the furst year can be written as follows:
+	Profit = (294 - c1 -c2 )*x - 1,000,000
+
+Perform 10 simulation runs for the PortaCom problem  and determine the probability of loss, the maximum profit, the maximum loss, and the average profit. Also draw the histograms of c1, c2, x & Profit. 
+
+Perform 10,000 simulation runs for the PortaCom problem and determine the probability of loss, the maximum profit, the maximum loss, and the average profit. Also draw the histograms of c1, c2, x & Profit. 
+
+Compare your results for the 10 runs and 10,000 runs.
